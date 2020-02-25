@@ -22,8 +22,7 @@
 14	Software configuration management plan, Quality plan – CMM Model 	<br>
 
 # Day 5 : 24 Feb,20
-15	The Constructive Cost model: basic and intermediate model	CO4	 	F2F Lecture 	
-16	Numerical problems on estimation of Project Scheduling and staffing	CO4	 	F2F Lecture 	
-17	Risk Management : Types of Risks and Phases of Risk Management	CO4	Online	Readings/ brief video/ presentations	Discussion – 1
-18	Risk assessment (qualitative and quantitative)	CO4	Online/
-Offline	F2F Lecture 	***
+15	The Constructive Cost model: basic and intermediate model		<br>
+16	Numerical problems on estimation of Project Scheduling and staffing	<br> 	
+17	Risk Management : Types of Risks and Phases of Risk Management	<br>
+18	Risk assessment (qualitative and quantitative)	<br>
